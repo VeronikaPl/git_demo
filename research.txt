@@ -1,0 +1,4 @@
+Difference between git restore and git checkout:
+    you can use git checkout only for untracked files, whereas git restore for both tracked/untracked files.
+Difference between git restore and git reset:
+    git reset is used only for tracked files to make it untracked.
